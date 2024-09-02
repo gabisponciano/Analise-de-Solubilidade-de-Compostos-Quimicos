@@ -1,3 +1,3 @@
-# Analise-de-Solubilidade-de-Compostos-Quimicos
+# Análise de Solubilidade de Compostos Químicos
 Aplicação de Modelos de Regressão Linear na Análise da Solubilidade de Compostos Químicos.
 Foi realizado a aplicação de modelos de regressão linear para uma melhor análise de dados, utilizando um dataset de solubilidade de compostos químicos para demonstrar os principais fundamentos dos diferentes modelos de regressão e de rede neural. Portanto, foi utilizado, para obter os fins requeridos nesse projeto, o modelo de Regressão Ordinária, Penalizada (Ridge, em específico), Partial Least Squares (PLS), além da utilização do Principal Component Regression para adquirir um resultado mais acurado e reduzir os erros de previsão. Ademais, foi feita a construção de um modelo de Rede Neural para regressão para testar o conjunto de dados de teste do modelo.
